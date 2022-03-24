@@ -69,13 +69,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -135,7 +135,7 @@ p {
     max-width: 150px;
 }*/
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -162,7 +162,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -174,7 +174,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
