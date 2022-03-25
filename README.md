@@ -9,9 +9,9 @@ Combined multiple classes into one to simplify CSS page while maintaining proper
 
 
 # Project Location:
-[Github Live Link:] https://jdiaz240.github.io/code-refractor/
+[Github Live Link](https://jdiaz240.github.io/code-refractor/)
 
-[Github repository:] https://github.com/Jdiaz240/code-refractor
+[Github repository](https://github.com/Jdiaz240/code-refractor)
 
 
 # Project Screenshot:
